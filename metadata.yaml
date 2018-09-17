@@ -1,6 +1,9 @@
 _repo: The-Impudent-Comedian-Others_51923
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: The Impudent Comedian, and Others
+covers:
+- cover_type: archival
+  image_path: 51923-h/images/cover.jpg
 creator:
   author:
     agent_name: Moore, Frank Frankfort
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/837
     wikipedia: http://en.wikipedia.org/wiki/Frank_Frankfort_Moore
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51923#The-Impudent-Comedian-Others
 gutenberg_issued: '2016-05-01'
 gutenberg_type: Text
 identifiers:
